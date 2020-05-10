@@ -1,0 +1,3 @@
+[submodule "themes/dot-hugo-documentation-theme"]
+	path = themes/dot
+	url = https://github.com/themefisher/dot-hugo-documentation-theme.git

@@ -1,0 +1,160 @@
+################################# Default configuration ###################
+# provide your domain here
+baseURL = "https://examplesite.com/"
+# theme
+theme = "dot"
+# site title
+title = "Thesis companion"
+# disable language
+disableLanguages = []
+# google analytics
+googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe= true
+
+################################# navigation ################################
+[[menu.main]]
+name = "Faq"
+url = "faq"
+weight = 1
+
+[[menu.main]]
+name = "contact & appointments"
+url = "contact"
+weight = 2
+
+# Dropdown menu
+[[menu.main]]
+weight = 3
+name = "Guide"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Getting started"
+  url = "getting-started"
+  weight = 1
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Skills"
+  url = "skills"
+  weight = 2
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Topic and data"
+  url = "topic"
+  weight = 3
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Doing your actual research"
+  url = "research"
+  weight = 4
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Meet your coach"
+  url = "coach"
+  weight = 5
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Writing guide"
+  url = "manuscript"
+  weight = 6
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Preparing your submission"
+  url = "submission"
+  weight = 7
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "THesis outline"
+  url = "thesis-outline"
+  weight = 8
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Billing and Pricing"
+  url = "billing-pricing"
+  weight = 0
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Features"
+  url = "features"
+  weight = 0
+
+
+############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = ""
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = ""
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#02007e"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
+
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+
+
+############################## social links ##############################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+################################ English Language ######################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+weight = 1
+home = "Home"
+copyright = "The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020."
+
+# banner
+[Languages.en.params.banner]
+title = "Marketing Analytics<br>Thesis Companion"
+subtitle = "Your ultimate companion for your thesis trajectory with Hannes Datta at Tilburg University"
+bg_image = "images/banner.jpg"
+placeholder = "Have a question? Just ask here or enter terms"
+
+# call to action
+[Languages.en.params.cta]
+enable = false
+title = "Didn't find an answer to your question?"
+content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+
+# call to action button
+[Languages.en.params.cta.button]
+enable = false
+label = "contact us"
+link = "contact"
