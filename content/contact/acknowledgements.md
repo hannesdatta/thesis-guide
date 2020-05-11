@@ -1,8 +1,8 @@
 ---
 title: "Acknowledgements"
 draft: false
+date: 2020-05-11T09:00:00+02:00
 ---
-
 
 The content for this website has originally been developed
 to guide PhD students in Marketing through the process of writing an academic paper.
