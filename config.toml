@@ -39,26 +39,26 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Guide"
-  name = "Skills"
+  name = "Skills and software setup"
   url = "skills"
   weight = 2
 
   [[menu.main]]
   parent = "Guide"
-  name = "Topic and data"
-  url = "topic"
+  name = "Meet your coach"
+  url = "coach"
   weight = 3
 
   [[menu.main]]
   parent = "Guide"
-  name = "Doing your actual research"
-  url = "research"
+  name = "Topic and data"
+  url = "topic"
   weight = 4
 
   [[menu.main]]
   parent = "Guide"
-  name = "Meet your coach"
-  url = "coach"
+  name = "Thesis outline"
+  url = "thesis-outline"
   weight = 5
 
   [[menu.main]]
@@ -72,25 +72,6 @@ hasChildren = true
   name = "Preparing your submission"
   url = "submission"
   weight = 7
-
-  [[menu.main]]
-  parent = "Guide"
-  name = "THesis outline"
-  url = "thesis-outline"
-  weight = 8
-
-  [[menu.main]]
-  parent = "Guide"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
-  weight = 0
-
-  [[menu.main]]
-  parent = "Guide"
-  name = "Features"
-  url = "features"
-  weight = 0
-
 
 ############################# Default Parameters ##########################
 [params]
