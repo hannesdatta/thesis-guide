@@ -2,6 +2,7 @@
 title: "Keeping your sanity"
 draft: false
 weight: 5
+date: 2020-05-11T09:00:00+02:00
 ---
 
 Writing your thesis can become quite of a stressful journey. For example, you may run into unexpected problems (e.g., data isn't as good as you hoped for, models do not converge, writing turns out to be difficult). We hope the tips below help you to keep your sanity:

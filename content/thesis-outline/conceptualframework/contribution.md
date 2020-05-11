@@ -2,6 +2,7 @@
 title: "Hypotheses versus expectations"
 weight: 6
 draft: false
+date: 2020-05-11T09:00:00+02:00
 ---
 
 **Hypothesis Format**

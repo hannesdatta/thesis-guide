@@ -2,6 +2,7 @@
 title: "Proper argumentation"
 weight: 5
 draft: false
+date: 2020-05-11T09:00:00+02:00
 ---
 
 * Have a theory of why you expect a relationship between your Xs and Y(s)

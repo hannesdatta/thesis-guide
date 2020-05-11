@@ -1,6 +1,6 @@
 ---
 title: "Getting started"
-date: 2020-05-28T11:02:05+06:00
+date: 2020-05-11T09:00:00+02:00
 icon: "ti-package"
 draft: false
 description: "Prepare for your MSc thesis"

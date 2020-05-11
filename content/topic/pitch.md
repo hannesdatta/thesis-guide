@@ -1,6 +1,8 @@
 ---
 title: "Make your pitch"
 weight: 3
+date: 2020-05-11T09:00:00+02:00
+
 ---
 
 After seeking inspiration and talking to others about your idea, it's time to prepare a proper pitch.

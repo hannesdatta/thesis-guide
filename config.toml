@@ -138,12 +138,12 @@ languageName = "En"
 languageCode = "en-us"
 weight = 1
 home = "Home"
-copyright = "The Hugo Documents are copyright © [gethugothemes](https://gethugothemes.com/) 2020."
+copyright = "© [Hannes Datta](https://hannesdatta.com) 2020. Theme based on [gethugothemes](https://gethugothemes.com/)."
 
 # banner
 [Languages.en.params.banner]
 title = "Marketing Analytics<br>Thesis Companion"
-subtitle = "Your ultimate companion for your thesis trajectory with Hannes Datta at Tilburg University"
+subtitle = "A companion for your thesis trajectory<br>with Hannes Datta at Tilburg University"
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
 

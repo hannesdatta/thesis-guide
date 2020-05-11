@@ -1,6 +1,6 @@
 ---
 title: "Features"
-date: 2018-12-28T11:02:05+06:00
+date: 2020-05-11T09:00:00+02:00
 icon: "ti-package"
 draft: true
 description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"

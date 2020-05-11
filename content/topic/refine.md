@@ -1,6 +1,8 @@
 ---
 title: "Revise"
 weight: 4
+date: 2020-05-11T09:00:00+02:00
+
 ---
 
 Finding a good topic/research question to work on takes time and patience. While you're in the process, take note of the following suggestions:

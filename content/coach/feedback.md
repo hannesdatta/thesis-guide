@@ -2,6 +2,7 @@
 title: "Receiving feedback"
 draft: false
 weight: 6
+date: 2020-05-11T09:00:00+02:00
 ---
 
 * I will actively share positive and negative comments about your work.

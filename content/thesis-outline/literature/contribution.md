@@ -1,6 +1,7 @@
 ---
 title: "Explaining your contribution"
-weight: 5
+date: 2020-05-11T09:00:00+02:00
+weight: 4
 ---
 
 **The important issue is not how many contributions a study will make, but rather a significance for each.**

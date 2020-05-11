@@ -1,6 +1,8 @@
 ---
 title: "Get inspired!"
 weight: 1
+date: 2020-05-11T09:00:00+02:00
+
 ---
 
 One good first step is to *let lose a bit* of what you *think* you are
