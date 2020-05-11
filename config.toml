@@ -39,7 +39,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Guide"
-  name = "Skills and software setup"
+  name = "Skills and software bootcamp"
   url = "skills"
   weight = 2
 
@@ -63,15 +63,15 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Guide"
-  name = "Writing guide"
+  name = "Writing bootcamp"
   url = "manuscript"
   weight = 6
 
-  [[menu.main]]
-  parent = "Guide"
-  name = "Preparing your submission"
-  url = "submission"
-  weight = 7
+#  [[menu.main]]
+#  parent = "Guide"
+#  name = "Preparing your submission"
+#  url = "submission"
+#  weight = 7
 
 ############################# Default Parameters ##########################
 [params]

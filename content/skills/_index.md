@@ -1,5 +1,5 @@
 ---
-title: "Skills bootcamp"
+title: "Skills and software bootcamp"
 date: 2020-05-11T09:00:00+02:00
 icon: "ti-hummer"
 draft: false
