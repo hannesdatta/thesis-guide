@@ -39,7 +39,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Guide"
-  name = "Skills and software bootcamp"
+  name = "Software"
   url = "skills"
   weight = 2
 
@@ -57,15 +57,28 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Guide"
+  name = "Finding literature"
+  url = "literature"
+  weight = 5
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Project pipeline"
+  url = "pipeline"
+  weight = 6
+
+  [[menu.main]]
+  parent = "Guide"
   name = "Thesis outline"
   url = "thesis-outline"
-  weight = 5
+  weight = 7
 
   [[menu.main]]
   parent = "Guide"
   name = "Writing bootcamp"
   url = "manuscript"
-  weight = 6
+  weight = 8
+
 
 #  [[menu.main]]
 #  parent = "Guide"
@@ -95,6 +108,7 @@ font_family = "lato" # Choose font family from : https://fonts.google.com/
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 
+#custom_css = "/my_css.css"
 
 ############################## social links ##############################
 #[[params.social]]
