@@ -1,6 +1,10 @@
-# Thesis Companion
+# Marketing Analytics Thesis Companion
 
 Open-source guide book to accompany the Master thesis supervision process of Hannes' students at Tilburg University.
+
+## Get to know our site!
+
+If you are actually __looking for the thesis companion__, rather than seeking to *contribute to it our view its source code*, open the [thesis companion here in your browser](https://thesis.hannesdatta.com).
 
 ## How to contribute?
 
