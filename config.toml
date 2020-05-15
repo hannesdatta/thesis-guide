@@ -79,12 +79,11 @@ hasChildren = true
   url = "manuscript"
   weight = 8
 
-
-#  [[menu.main]]
-#  parent = "Guide"
-#  name = "Preparing your submission"
-#  url = "submission"
-#  weight = 7
+  [[menu.main]]
+  parent = "Guide"
+  name = "Preparing your submission"
+  url = "submission"
+  weight = 9
 
 ############################# Default Parameters ##########################
 [params]
