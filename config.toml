@@ -21,7 +21,7 @@ url = "faq"
 weight = 1
 
 [[menu.main]]
-name = "contact & appointments"
+name = "Contact & license"
 url = "contact"
 weight = 2
 
