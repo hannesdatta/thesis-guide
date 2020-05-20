@@ -137,7 +137,7 @@ copyright = "© [Hannes Datta](https://hannesdatta.com) 2020. Theme based on [ge
 # banner
 [Languages.en.params.banner]
 title = "Marketing Analytics<br>Thesis Companion"
-subtitle = "A companion for your thesis trajectory<br>with Hannes Datta at Tilburg University"
+subtitle = "A guide for your thesis trajectory<br>with Hannes Datta at Tilburg University"
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
 
