@@ -4,13 +4,10 @@ draft: false
 date: 2020-05-19T09:00:00+02:00
 ---
 
-This companion has been published by [Hannes Datta](https://hannesdatta.com),
-though it builds on the shoulders of several of my
-former colleagues and advisors, all of which
-I have (hopefully in a complete sense) listed in
-the [acknowledgements section](acknowledgements) of this page.
+This companion has been published by [Hannes Datta](https://hannesdatta.com). It builds upon the work of several of Hannes's former colleagues and advisors, all of which
+are listed (hopefully in a complete sense) in the [acknowledgements section](acknowledgements).
 
-Want to know more about me and my research? Please browse my [personal website](https://hannesdatta.com) and [research profile at Tilburg University](https://tiu.nu/datta).
+Want to know more about Hannes and his research? Please checkout his [personal website](https://hannesdatta.com) and [research profile at Tilburg University](https://tiu.nu/datta).
 
 <!--Submit the form and confirm your email address at [Formspree](https://formspree.io/).-->
 
@@ -22,5 +19,4 @@ This license requires that reuses give credit to the creator. It allows reusers 
 
 ### Getting in touch
 
-
-Not my student and still want to get in touch? Then please use this form:
+Not my student and still want to get in touch? Then please email me at [h.datta@tilburguniversity.edu](mailto:h.datta@tilburguniversity.edu), or use the form below.
