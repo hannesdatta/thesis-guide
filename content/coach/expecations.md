@@ -22,4 +22,6 @@ date: 2020-05-15T09:00:00+02:00
   think about it
 * Keep me up-to-date
   * Provide a small recap of your project regularly
-* If you experience any kind of problem - whether related to the content of your thesis, or related to your personal wellbeing - let me know so that I can help you find a solution
+* If you experience any kind of problem - whether related to the content of your thesis, or related to your personal wellbeing - you can talk to me so I can help you find a solution or refer you to experts that can.
+  * If you expect that writing will become an issue, check the offerings of [Tilburg University's Scriptorium](https://www.tilburguniversity.edu/students/studying/scriptorium/writing)
+  * Tilburg University has a fantastic team of [student psychologists](https://www.tilburguniversity.edu/students/tutoring/psychologist), who offer individual therapy and workshops to improve your well-being. Several of my students have worked with our psychologists to tackle problems that kept them from unleashing their potential.
