@@ -1,6 +1,7 @@
 ---
 title: "Write actively"
 weight: 1
+date: 2020-05-19T09:00:00+02:00
 ---
 
 Write actively, and make sure to engage with your readers.
