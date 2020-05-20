@@ -11,3 +11,5 @@ weight: 20
     - For example, have three separate code files that (a) load the data, (b) clean it, and (c) analyze it.
     - Tie these code chunks together using `makefiles`.
     - When running into memory issues when prototyping your code, close and restart R, and then only load the required source code file.
+
+- You can easily prototype your code by limiting the *number of observations* you are loading into your R session. For example, using `data.table`: `fread('mydata', nrow = 1000)` loads the first 1,000 lines of your data.
