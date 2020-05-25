@@ -1,6 +1,6 @@
 ---
 title: "Write actively"
-weight: 1
+weight: 10
 date: 2020-05-19T09:00:00+02:00
 ---
 
@@ -19,5 +19,5 @@ Write actively, and make sure to engage with your readers.
     * This will help you to tell a better story, and also avoid writing in passive voice.
 
 * Avoid writing in “constructs”, but give meaning to everything you say
-    * Wrong: “The overall click through rate for users in the “promotion” condition is [...]”
-    * Correct: “Promotion focused users had higher click through rates than [...]”
+    * Wrong: “The overall click-through rate for users in the “promotion” condition is [...]”
+    * Correct: “Users who received a promotion had higher click-through rates than [...]”

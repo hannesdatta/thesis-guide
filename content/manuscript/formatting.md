@@ -1,7 +1,7 @@
 ---
 title: "Formatting your document"
 date: 2020-05-19T09:00:00+02:00
-weight: 5
+weight: 50
 ---
 
 * Format of your thesis
