@@ -4,7 +4,7 @@ baseURL = "https://thesis.hannesdatta.com/"
 # theme
 theme = "dot"
 # site title
-title = "Thesis companion"
+title = "Thesis Companion"
 # disable language
 disableLanguages = []
 # google analytics
@@ -16,7 +16,7 @@ unsafe= true
 
 ################################# navigation ################################
 [[menu.main]]
-name = "Faq"
+name = "FAQ"
 url = "faq"
 weight = 1
 
@@ -94,7 +94,7 @@ logo_white = ""
 # when logo is empty, it will shown your site title
 
 # customize color
-primary_color = "#02007e"
+primary_color = "#eb133e"
 body_color = "#f9f9f9"
 text_color = "#636363"
 text_color_dark = "#242738"
@@ -102,7 +102,7 @@ white_color = "#ffffff"
 light_color = "#f8f9fa"
 
 # font family
-font_family = "lato" # Choose font family from : https://fonts.google.com/
+font_family = "roboto" # Choose font family from : https://fonts.google.com/
 
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -132,13 +132,13 @@ languageName = "En"
 languageCode = "en-us"
 weight = 1
 home = "Home"
-copyright = "© [Hannes Datta](https://hannesdatta.com) 2020. Theme based on [gethugothemes](https://gethugothemes.com/)."
+copyright = "© [Hannes Datta](https://hannesdatta.com) 2020."
 
 # banner
 [Languages.en.params.banner]
 title = "Marketing Analytics<br>Thesis Companion"
 subtitle = "A guide for your thesis trajectory<br>with Hannes Datta at Tilburg University"
-bg_image = "images/banner.jpg"
+bg_image = "images/banner_laptop.jpg"
 placeholder = "Have a question? Just ask here or enter some key words"
 
 # call to action

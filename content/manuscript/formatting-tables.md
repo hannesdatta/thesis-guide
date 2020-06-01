@@ -1,7 +1,7 @@
 ---
 title: "Formatting tables and figures"
 date: 2020-05-20T09:00:00+02:00
-weight: 60
+weight: 6
 ---
 
 * Tables need to be formatted yourself, e.g., in Word or Excel, or Latex (put differently, do not merely paste the output from your statistical program in the main text - these are often too elaborate, or do not efficiently combine the results of multiple models)

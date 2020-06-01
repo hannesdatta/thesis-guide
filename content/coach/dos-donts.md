@@ -7,6 +7,7 @@ date: 2020-05-25T09:00:00+02:00
 
 **The do’s**
 
+<<<<<<< HEAD
 * Appointments
     * Do make an appointment before you come see me
     * Do take into account my busy agenda
@@ -20,6 +21,24 @@ date: 2020-05-25T09:00:00+02:00
     * Do take this companion and the suggestions seriously
 * Seeking support from others
     * Do seek support from others - friends may go the extra mile to discuss research questions, find spelling mistakes, or help you fix some errors in your `R` code. However, if you do seek support, *you need to tell me about it* so that I can accurately gauge your own performance, which is crucial for a proper planning.
+=======
+Appointments
+  * Do make an appointment before you come see me
+  * Do take into account my busy agenda
+
+Communication
+  * Do let me know if I don't reply to you!
+  * Do submit things on time and stick to agreements
+  * If you write an email, write it short and to the point
+  * When meeting online, test your audio, turn on your webcam, and be prepared to share your screen.
+
+Feedback and support
+  * Do accept my feedback, but also give your feedback to me (!)
+  * Do take this companion and the suggestions seriously
+
+Seeking support from others
+  * Do seek support from others - friends may go the extra mile to discuss research questions, find spelling mistakes, or help you fix some errors in your `R` code. However, if you do seek support, *you need to tell me about it* so that I can accurately gauge your own performance, which is crucial for a proper planning.
+>>>>>>> andrea/master
     <!-- For example, if you have a professional copy editor improve the writing of your thesis proposal (without telling me), then I will likely overestimate your writing capabilities, which may lead to an unrealistic planning of your thesis process.-->
 
 **The Dont's**

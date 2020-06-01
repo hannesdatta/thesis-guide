@@ -1,7 +1,7 @@
 ---
-title: "Self-assess your text quality"
+title: "Self-assessment for text quality"
 date: 2020-05-19T09:00:00+02:00
-weight: 70
+weight: 7
 ---
 
 **Text type**

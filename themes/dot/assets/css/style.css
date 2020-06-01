@@ -9,7 +9,7 @@ body {
 
 P {
   color: var(--text-color);
-  font-size: 15px;
+  font-size: 17px;
 }
 
 h1,
@@ -230,8 +230,13 @@ pre {
   width: 100%;
   top: 0;
   left: 0;
+<<<<<<< HEAD
   background: var(--primary-color);
   opacity: .8;
+=======
+  background: black;
+  opacity: .7;
+>>>>>>> andrea/master
 }
 
 .outline-0 {
@@ -340,7 +345,12 @@ header.sticky-top {
 .navbar .nav-item .nav-link {
   text-transform: uppercase;
   padding: 10px 15px !important;
+<<<<<<< HEAD
   font-size: 15px;
+=======
+  font-size: 14px;
+  font-weight: bold;
+>>>>>>> andrea/master
 }
 
 .navbar .dropdown:hover .dropdown-menu {
@@ -573,7 +583,11 @@ textarea.form-control {
 /* single page */
 
 .content * {
+<<<<<<< HEAD
   margin-bottom: 20px;
+=======
+  margin-bottom: 10px;
+>>>>>>> andrea/master
 }
 
 .content img {
@@ -597,6 +611,7 @@ textarea.form-control {
 .content ul li::before {
   position: absolute;
   content: '';
+<<<<<<< HEAD
   height: 8px;
   width: 8px;
   border-radius: 50%;
@@ -604,6 +619,15 @@ textarea.form-control {
   opacity: .3;
   left: 0;
   top: 8px;
+=======
+  height: 5px;
+  width: 5px;
+  border-radius: 50%;
+  background: black;
+  opacity: .3;
+  left: 0;
+  top: 10px;
+>>>>>>> andrea/master
 }
 
 .list-styled li {
@@ -614,13 +638,23 @@ textarea.form-control {
 .list-styled li::before {
   position: absolute;
   content: '';
+<<<<<<< HEAD
   height: 8px;
   width: 8px;
+=======
+  height: 5px;
+  width: 5px;
+>>>>>>> andrea/master
   border-radius: 50%;
   background: var(--primary-color);
   opacity: .3;
   left: 0;
+<<<<<<< HEAD
   top: 18px;
+=======
+  top: 12px;
+  /* top: 18px; */
+>>>>>>> andrea/master
 }
 
 .post-meta {
@@ -799,7 +833,11 @@ li.sidelist li a {
   display: block;
   font-size: 15px;
   font-weight: 500;
+<<<<<<< HEAD
   padding: 10px 0;
+=======
+  padding: 5px 0;
+>>>>>>> andrea/master
   line-height: 1.4;
 }
 
@@ -929,4 +967,8 @@ code {
   right: 20px;
   top: 18px;
   font-size: 14px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> andrea/master
