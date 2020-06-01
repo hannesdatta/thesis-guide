@@ -4,8 +4,9 @@ draft: false
 date: 2020-05-19T09:00:00+02:00
 ---
 
-This companion has been published by [Hannes Datta](https://hannesdatta.com). It builds upon the work of several of Hannes's former colleagues and advisors, all of which
-are listed (hopefully in a complete sense) in the [acknowledgements section](acknowledgements).
+Conducting your research and writing a paper, whether it's for your Master degree or your PhD, can be a challenging experience. Luckily, you're not the first one to go through that process.
+
+This guide seeks to accompany you on your research journey. It has been published by [Hannes Datta](https://hannesdatta.com), who wishes to [acknowledge his former colleagues and advisors](acknowledgements) for valuable lessons learnt, and for sharing some of their own material.
 
 Want to know more about Hannes and his research? Please checkout his [personal website](https://hannesdatta.com) and [research profile at Tilburg University](https://tiu.nu/datta).
 
