@@ -1,7 +1,7 @@
 ---
 title: "Write actively"
 weight: 1
-date: 2020-05-19T09:00:00+02:00
+date: 2020-06-03T09:00:00+02:00
 ---
 
 Write actively, and make sure to engage with your readers.
@@ -21,3 +21,9 @@ Write actively, and make sure to engage with your readers.
 * Avoid writing in “constructs”, but give meaning to everything you say
     * Wrong: “The overall click through rate for users in the “promotion” condition is [...]”
     * Correct: “Promotion focused users had higher click through rates than [...]”
+
+* Use the [correct tense](https://writingcenter.gmu.edu/guides/the-three-common-tenses-used-in-academic-writing)
+    * the default tense in academic writing is the present simple ("In this study, we show that [...]").
+    * you can deviate from that rule and use the past tense if some action has been completed in the past ("To collect the data, we used the Spotify Web API [...]")
+    * last, the literature review typically is written in the present perfect tense ("Some studies have found a large impact of X on Y").
+    * Use [this guide for a complete overview](https://writingcenter.gmu.edu/guides/the-three-common-tenses-used-in-academic-writing)
