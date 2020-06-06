@@ -14,7 +14,8 @@ When first meeting with your coach, please prepare the following:
 * Make an overview of the data that you have or plan to use
     * e.g ., inform yourself about the dataset, make some descriptive statistics if possible; see also the section on describing your data on this site
 
-* Make an overview about the software stack you're planning to use (e.g., R, Python)
+* Make an overview about the software stack you're planning to use
+    * Which software to accomplish which (pipeline) task? (e.g., R for data preparation, Python for k-means clustering, R for fixed-effects model, etc.)
 
 * Prepare a rough sketch about your [project pipeline](/pipeline)
     * ideally, study our workflows on [tilburgsciencehub.com](http://tilburgsciencehub.com/workflow), and follow our [tutorial on reproducible workflows](http://tilburgsciencehub.com/tutorial) before you start with your thesis
@@ -22,6 +23,11 @@ When first meeting with your coach, please prepare the following:
 * Know this website, and the various requirements that are already relevant at this stage of your thesis process
 
 * Make an evaluation of your individual strengths and weaknesses and share those with me! (this way, we can anticipate problems)
+    * What's your ambition with this thesis?
+    * Where do you want to be in five years from now?
+    * What are you really good at?
+    * Which areas excite you, and wish to learn more about?
+    * What is it that you really dislike?
 
 * We will most likely discuss the contribution of your study, your data, and your project pipeline.
     * Study these sections well and be prepared to pitch your research!!!
