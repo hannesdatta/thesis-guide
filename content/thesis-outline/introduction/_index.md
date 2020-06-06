@@ -16,18 +16,18 @@ Please write up your introduction in the following five paragraphs, and do not m
 
 2. __Why to study it?__
    * <ins>Motivate</ins> your research question
-   * Start with something like… “Studying [ xyz ] is crucial to […]” or “The […] is worth studying
+   * Start with something like "Studying [ xyz ] is crucial to [...]" or "The [...] is worth studying because"
 
 3. __What we know__
    * Indicate in general terms what has been done in this area
-   * Start with something like… “ My research relates to extant literature… (in at least three ways): First, […]” / “My research contributes to two literature streams:”…
+   * Start with something like "My research relates to extant literature... (in at least three ways): First, [...]" / "My research contributes to two literature streams: [...]"
 
 4. __What we don’t know__
    * Identify important gaps, inconsistencies, and/or controversies in the relevant literature
    * Provide a concise statement of the manuscript’s purpose(s) and the contributions the manuscript makes to the literature
-   * Start with something like… “Our research extends extant research by…” / “Therefore, as a first contribution, we […]”
+   * Start with something like... “Our research extends extant research by...” / “Therefore, as a first contribution, we [...]”
 
 5. __What you will do__
-   * Describe (a) which data you will use,<br/>
-       (b) which methods you will use to study your research question. Then,</br>
-      (c), describe the fl ow of the next sections.
+   * Describe which data you will use, and
+   * which methods you will use to study your research question.
+   * Then, describe the flow of the next sections ("In what follows, we first review the extant literature on [...]. Subsequently, we [...]")
