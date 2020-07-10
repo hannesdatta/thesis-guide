@@ -1,6 +1,6 @@
 ---
 title: "Mental health & beyond"
-date: 2020-05-20T09:00:00+02:00
+date: 2020-07-10T09:00:00+02:00
 icon: "ti-pulse"
 draft: false
 description: "Manage your mental health and deal with unexpected problems during your thesis"

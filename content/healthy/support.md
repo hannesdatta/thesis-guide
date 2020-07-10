@@ -2,7 +2,7 @@
 title: "Getting support"
 draft: false
 weight: 60
-date: 2020-05-19T09:00:00+02:00
+date: 2020-07-10T09:00:00+02:00
 ---
 
 You find it difficult to clear up your mind to focus on your thesis?

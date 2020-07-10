@@ -2,7 +2,7 @@
 title: "Help yourself to stay mentally healthy"
 draft: false
 weight: 5
-date: 2020-05-25T09:00:00+02:00
+date: 2020-07-10T09:00:00+02:00
 ---
 
 We hope the tips below help you to stay focused and healthy:
