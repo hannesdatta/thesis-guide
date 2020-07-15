@@ -5,4 +5,5 @@ icon: "ti-write"
 draft: false
 description: "Writing well is a skill and can be learnt. Read how."
 type : "docs"
+weight: 70
 ---

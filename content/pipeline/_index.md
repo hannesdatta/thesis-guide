@@ -5,6 +5,7 @@ icon: "ti-settings"
 draft: false
 description: "Conduct your research efficiently by documenting and automating your workflows"
 type : "docs"
+weight: 50
 ---
 
 A thesis project in marketing analytics can quickly become tough to manage.

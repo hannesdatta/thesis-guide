@@ -4,6 +4,7 @@ date: 2020-05-11T09:00:00+02:00
 icon: "ti-hummer"
 draft: false
 description: "Invest in your skill set - even before you actually start working on your thesis"
+weight: 15
 type : "docs"
 ---
 

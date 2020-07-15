@@ -5,6 +5,7 @@ icon: "ti-book"
 draft: false
 description: "Base your research on solid literature"
 type : "docs"
+weight: 30
 ---
 
 A good thesis relies on one or a few key top tier papers. Make them be your guiding “superstars”.

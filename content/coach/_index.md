@@ -4,6 +4,7 @@ date: 2020-07-10T09:00:00+02:00
 icon: "ti-user"
 draft: false
 description: "Get to know about my expectations and receive tips for your first meetings"
+weight: 10
 type : "docs"
 ---
 

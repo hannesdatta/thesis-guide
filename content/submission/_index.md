@@ -4,6 +4,7 @@ date: 2020-05-15T09:00:00+02:00
 icon: "ti-export"
 draft: false
 description: "How to submit your thesis"
+weight: 80
 type : "docs"
 ---
 

@@ -5,6 +5,7 @@ icon: "ti-notepad" #ti-zoom-in
 draft: false
 description: "Step-by-step guide with what is important to know for each phase of conducting your research"
 type : "docs"
+weight: 60
 ---
 
 In writing your thesis, please adhere to the following chapter structure. We provide details on what we expect in each section on subsequent sites.

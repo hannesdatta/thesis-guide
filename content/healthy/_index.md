@@ -5,6 +5,7 @@ icon: "ti-pulse"
 draft: false
 description: "Manage your mental health and deal with unexpected problems during your thesis"
 type : "docs"
+weight: 90
 ---
 
 Writing your thesis can be quite of a stressful journey. After all, it's one of the biggest projects you may have carried out up to this point (certainly larger than assignments or papers you've worked on during your studies).
