@@ -1,7 +1,7 @@
 ---
 title: "Statistical methods"
 draft: false
-date: 2020-08-26T09:00:00+02:00
+date: 2020-08-25T09:00:00+02:00
 weight: 2
 ---
 
