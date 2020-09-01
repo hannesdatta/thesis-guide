@@ -1,7 +1,7 @@
 ---
 title: "Software stack"
 draft: false
-date: 2020-09-01T09:00:00+02:00
+date: 2020-09-01T08:00:00+02:00
 weight: 1
 ---
 
@@ -12,7 +12,7 @@ about how to configure most of these software programs.
 
 #### Statistical software
 - by far most students [use R](http://tilburgsciencehub.com/setup/R) for data preparation/cleaning
-and model estimation. We have collected a few tips on how to [learn R here](http://tilburgsciencehub.com/tips/learn_R/). We definitely recommend to you to get up to speed with [data manipulation using `data.table` in R](https://learn.datacamp.com/courses/data-manipulation-with-datatable-in-r) and [joining data with `data.table` in R](https://learn.datacamp.com/courses/joining-data-with-datatable-in-r)
+and model estimation. We have collected a few tips on how to [learn R here](http://tilburgsciencehub.com/tips/learn_R/). We definitely recommend to you to get up to speed with [data manipulation using `data.table` in R](https://learn.datacamp.com/courses/data-manipulation-with-datatable-in-r) and [joining data with `data.table` in R](https://learn.datacamp.com/courses/joining-data-with-datatable-in-r).
 - If your more into data science, [Python](http://tilburgsciencehub.com/setup/python) is probably the way to go. On Tilburg Science Hub, we also feature a couple of cool lessons on how to get started.
 
 #### Managing data-intensive research projects
