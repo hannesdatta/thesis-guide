@@ -1,6 +1,6 @@
 ---
 title: "Talk to others"
-weight: 2
+weight: 30
 date: 2020-05-11T09:00:00+02:00
 
 ---
