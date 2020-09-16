@@ -24,11 +24,12 @@ The best way to go about is to *read in the various data files in your statistic
 
 - Is the data accompanied by a readme or documentation? It's advisable to read it well.
 - Is there no documentation available? Create your own one, by starting with [this template](http://tilburgsciencehub.com/workflow/documenting-data/).
+- Is the filename informative of the content of the file? Does it contain extra information (e.g., a timestamp) which is not contained in the data itself?
 
 #### Validity
 
-- Check variable names and columns in the data; do you know what these variables really mean?
-- How are variables operationalized/defined?
+- Check variable names and columns in the data; do you know what these variables really mean? Do columns seem complete?
+- How are variables operationalized/defined? Do numeric variables represent cumulative sums (e.g., total followers), or are they incremental (e.g., new followers on a given day?)
 
 *Example:* Chartmetric’s API lists a “listener-to-follower” ratio for about 1.1m playlists; it’s easy to assume they have actual data on the number of listeners, but, in fact, that metric is only approximated. A better name for the variable would have been estimated-listener-to-follower-ratio.
 
