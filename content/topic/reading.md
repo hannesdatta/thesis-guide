@@ -17,6 +17,7 @@ Finding a good place to start getting inspired may be hard. That's why I've comp
   - Holtz, D., Carterette, B., Chandar, P., Nazari, Z., Cramer, H., & Aral, S. (2020). The Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. Available at SSRN. [Paper](https://arxiv.org/pdf/2003.08203)
   - Knox, G., & Datta, H. (2020). Streaming Services and the Homogenization of Music Consumption. [Paper](https://research.tilburguniversity.edu/files/32472563/spotify_homogenization.pdf)
   - Sim, J., Cho, D., Hwang, Y., & Telang, R. (2020). Virus Shook the Streaming Star: Estimating the COVID-19 Impact on Music Consumption. Available at SSRN 3649085. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3649085)
+  - Spotify's own [research page](https://research.atspotify.com)
 - Data sets I've collected/I am collecting
     - The [playlist ecosystem](https://github.com/hannesdatta/data-spotify-playlist-ecosystem) at Spotify, 2016-2020
     - [New releases](https://github.com/hannesdatta/data-spotify-releases) at Spotify, 2015-2018
