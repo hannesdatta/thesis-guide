@@ -6,6 +6,8 @@ Open-source guide book to accompany the Master thesis supervision process of Han
 
 If you are actually __looking for the thesis companion__, rather than seeking to *contribute to it our view its source code*, open the [thesis companion here in your browser](https://thesis.hannesdatta.com).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c942038-4d66-4665-b30a-f2b6c6589960/deploy-status)](https://app.netlify.com/sites/thesis-companion/deploys)
+
 ## How to contribute?
 
 Contributions in any form (e.g., correcting typos, adding chapters, etc.) are welcome!
