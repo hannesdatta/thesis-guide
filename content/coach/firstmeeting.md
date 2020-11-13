@@ -5,14 +5,14 @@ weight: 50
 date: 2020-05-19T09:00:00+02:00
 ---
 
-When first meeting with your coach, please prepare the following:
+Please prepare the following for your first meeting with your advisor.
 
 * (Re)share your thesis proposal
-    * Please email your research proposal to your coach, even if you haven't updated it after handing it in (PDF format). Do so at least three days before the meeting.
+    * Please email/post your research proposal to your coach, even if you haven't updated it after handing it in (PDF format). Do so at least three days before the meeting.
     * If you're supervised in a team, send the research proposal to your thesis partner, too.
 
 * Make an overview of the data that you have or plan to use
-    * e.g ., inform yourself about the dataset, make some descriptive statistics if possible; see also the section on describing your data on this site
+    * e.g., inform yourself about the dataset, make some descriptive statistics if possible; see also the section on describing your data on this site
 
 * Make an overview about the software stack you're planning to use
     * Which software to accomplish which (pipeline) task? (e.g., R for data preparation, Python for k-means clustering, R for fixed-effects model, etc.)
@@ -29,8 +29,10 @@ When first meeting with your coach, please prepare the following:
     * Which areas excite you, and wish to learn more about?
     * What is it that you really dislike?
 
+
 * We will most likely discuss the contribution of your study, your data, and your project pipeline.
     * Study these sections well and be prepared to pitch your research!!!
     * Have a list of potential contributions of your research
     * Have an initial conceptual model
+    * Clearly inform your advisor about data availability, or the steps that you still need to undertake to receive your data.
     * Try to sketch your project pipeline

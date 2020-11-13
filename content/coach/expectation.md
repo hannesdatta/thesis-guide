@@ -1,25 +1,21 @@
 ---
 title: "Expectations"
 draft: false
-weight: 1
-date: 2020-05-15T09:00:00+02:00
+weight: 10
+date: 2020-09-13T09:00:00+02:00
 ---
 
-**Be critical and take responsibility**
-  * This is your research project, not mine! Even if I gave you some data,
-    and even if you are working on topics related to my own research interest...
+**Take responsibility**
+  * This is your research project, not mine! Even if you are working on topics related to my own research interest...
+  * It is your responsibility to receive the data outlined in your thesis proposal. If I have made commitments to providing data, make sure to follow up on those.
+  * If you are relying on other data suppliers, please make a realistic plan about which data you receive, and when. Delays in the process are your responsibility, not mine.
 
 **Prepare thoroughly for meetings**
-  * Have an agenda of things you need to discuss
-  * Be proactive
-  * Send stuff (as PDF documents, not as Word documents) early enough to allow me to prepare. Generally, this is 24 hours before our meeting.
+  * Have an agenda of things you would like to discuss, and keep an eye on the time so that we do not run over time.
+  * Be proactive - make suggestions, be creative, challenge the status quo!
   * Not only come up with problems during your meetings, but also try to already have a set of potential solutions
-  * If you are supervised in a team, please send your material to each other early enough,
-    so that you can (a) study each other’s work, and provide (b) a round of feedback
-    before submitting material to your advisor
-
-**During our meetings**
-  * Don’t take criticism personally (I’m just trying to improve your work)
+  * Send stuff (as __PDF documents__, not as Word documents) early enough to allow me to prepare. Generally, this is 24 hours before our meeting.
+  * If you are supervised in a team, please send your material to each other early enough, so that you can (a) study each other’s work, and provide (b) a round of feedback before submitting material to your advisor
   * If you don’t know the answer to a question on the spot, say that you need time to
   think about it
 
