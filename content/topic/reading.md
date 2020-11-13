@@ -23,3 +23,4 @@ Finding a good place to start getting inspired may be hard. That's why I've comp
     - [New releases](https://github.com/hannesdatta/data-spotify-releases) at Spotify, 2015-2018
 - Other work
     - Instagram & Microsoft Azure Image API: [Goodbye Likes, Hello Mental Health - How Hiding Like Counts Affects User Behavior and Self-Esteem](https://github.com/RoyKlaasseBos/Hiding-Instagram-Likes)
+    - [Recommender Lab at TU Eindhoven](http://martijnwillemsen.nl/recommenderlab/index.html)
