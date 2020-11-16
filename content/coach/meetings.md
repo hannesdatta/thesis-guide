@@ -23,5 +23,10 @@ In-between online meetings, you work __independently on your research__, and sta
 * Don't contact me for every tiny question you have, but first try to find a solution yourself or in discussions with other students in your thesis team.
 * If you write an email, write it short and to the point.
 
-### Use of Microsoft Teams
+### Use of Zoom
+<!--Microsoft Teams
 We will use Microsoft Teams for online meetings and communication. You will receive an invitation to join the Team after the official start of your supervision period (as of January 2021).
+-->
+Students and staff of Tilburg University have access to the campus license of Zoom. When setting up meetings (please send us calendar invites), please include the link to the Zoom call.
+
+You can create meeting links by visiting https://tilburguniversity.zoom.us/, and logging in with your Tilburg University account.
