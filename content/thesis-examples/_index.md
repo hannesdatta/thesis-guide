@@ -16,3 +16,5 @@ Seeking inspiration in writing your thesis, or setting up your workflow? Then ch
 
 - Fenne Schoot, 2019, "Analyzing Spotify's network of playlists: how tracks spread through playlists on Spotify" ([Thesis](https://github.com/hannesdatta/spotify-track-spread/raw/master/Schoot%20(2019).pdf), [Code on GitHub](
 https://github.com/hannesdatta/spotify-track-spread))
+
+- Robbert Oudelaar, 2020, "Assessing the Influence of Major-Label Content on Spotify Playlist Success" ([Thesis](/downloads/oudelaar2020.pdf))
