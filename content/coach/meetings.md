@@ -13,7 +13,8 @@ Your supervision takes place in __online meetings__, potentially with other stud
 
   * Please make appointments for your meetings by sending calendar invites to your advisor.
   * Please take into account the busy agendas of your advisor(s).
-  * When meeting online, test your audio, turn on your webcam, and be prepared to share your screen.
+  * When meeting online, test your audio and turn on your webcam. Please be on time (which means to join the meeting a couple of minutes prior to the start of the meeting).
+  * Please be prepared to share your screen. If you require feedback on code or data, please have your computer ready for us to work on. In practice, this means having [TeamViewer installed](http://tilburgsciencehub.com/setup/teamviewer).
 
 ### Conducting your research independently
 In-between online meetings, you work __independently on your research__, and stay in close touch with other students (e.g., to give feedback on writing or code). Please bundle questions for your next online meeting. If you're stuck - get in touch with your advisor.
@@ -23,4 +24,4 @@ In-between online meetings, you work __independently on your research__, and sta
 * If you write an email, write it short and to the point.
 
 ### Use of Microsoft Teams
-We will use Microsoft Teams for online meetings and communication. You will receive an invitation to join the Team after the official start of your supervision period.
+We will use Microsoft Teams for online meetings and communication. You will receive an invitation to join the Team after the official start of your supervision period (as of January 2021).
