@@ -1,7 +1,7 @@
 ---
 title: "Avoid typos and grammar mistakes"
-date: 2020-05-19T09:00:00+02:00
 weight: 2
+date: 2020-11-16T09:00:00+02:00
 ---
 
 **Some students seemingly have established a dangerous mindset about the details…**

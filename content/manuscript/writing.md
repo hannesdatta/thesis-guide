@@ -1,10 +1,10 @@
 ---
 title: "Write actively"
 weight: 1
-date: 2020-06-03T09:00:00+02:00
+date: 2020-11-16T09:00:00+02:00
 ---
 
-Write actively, and make sure to engage with your readers.
+Engage with your readers by writing *actively*.
 
 * Write in active voice (as if you’re having a conversation with a good academic friend)
     * **Example 1**
