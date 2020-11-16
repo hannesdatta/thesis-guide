@@ -1,5 +1,5 @@
 ---
-title: "Supervision and meetings"
+title: "Structure and meetings"
 draft: false
 weight: 4
 date: 2020-09-13T09:00:00+02:00
