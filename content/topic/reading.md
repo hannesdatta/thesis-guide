@@ -10,6 +10,7 @@ Finding a good place to start getting inspired may be hard. That's why I've comp
 
 - A collection of [reading lists](https://paper.dropbox.com/doc/Digitization-Course-Syllabi--AwXVjOxTO8Zddm2n3MWo4rdpAg-OLLDNQ8nw7j6PsUahRlVz) on the topic of digitization, economics and marketing
 - Virtual [seminar series on digital economics](https://www.digitalecon.org/seminar)
+- [Forum on Information & Democracy - a fantastic source of inspiration for new research (e.g., disinformation, filter bubbles)](https://informationdemocracy.org/wp-content/uploads/2020/11/ForumID_Report-on-infodemics_101120.pdf)
 - Spotify research
   - Aguiar, L., & Waldfogel, J. (2018). As streaming reaches flood stage, does it stimulate or depress music sales?. *International Journal of Industrial Organization*, 57, 278-307. [Paper](https://doi.org/10.1016/j.ijindorg.2017.06.004)
   - Aguiar, L., & Waldfogel, J. (2018). Platforms, promotion, and product discovery: Evidence from spotify playlists (No. w24713). National Bureau of Economic Research. [Paper](https://www.nber.org/papers/w24713.pdf)  
