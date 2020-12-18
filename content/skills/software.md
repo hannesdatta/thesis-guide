@@ -22,6 +22,9 @@ and model estimation. We have collected a few tips on how to [learn R here](http
 #### Code versioning
 - We recommend you to [version and backup your code on GitHub](http://tilburgsciencehub.com/workflow/versioning/). Maybe even we require you to use GitHub to download the raw data that you will work with during your thesis project. Make sure to sign up for an account, and tell us your username so we can add you to relevant code repositories.
 
+#### Code snippets
+- Get inspired by code snippets that we've used in our research projects ([GitHub repositories](https://github.com/hannesdatta?tab=repositories), [GitHub Gists](https://gist.github.com/hannesdatta))
+
 #### Writing
 - Most students write their theses in Word, but a growing number of students
   has started to shift to a locally installed [Latex](http://tilburgsciencehub.com/setup/latex/) distribution, or its (freemium) cloud-based alternative [Overleaf](https://www.overleaf.com). You can start typing directly in one of the [Tilburg-branded templates](https://www.overleaf.com/gallery/tagged/tilburg).
