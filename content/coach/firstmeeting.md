@@ -2,8 +2,10 @@
 title: "First advisor meeting"
 draft: false
 weight: 50
-date: 2020-05-19T09:00:00+02:00
+date: 2021-01-15T09:00:00+02:00
 ---
+
+# Preparation
 
 Please prepare the following for your first meeting with your advisor.
 
@@ -29,10 +31,26 @@ Please prepare the following for your first meeting with your advisor.
     * Which areas excite you, and wish to learn more about?
     * What is it that you really dislike?
 
+## Preliminary meeting agenda
 
-* We will most likely discuss the contribution of your study, your data, and your project pipeline.
-    * Study these sections well and be prepared to pitch your research!!!
-    * Have a list of potential contributions of your research
-    * Have an initial conceptual model
-    * Clearly inform your advisor about data availability, or the steps that you still need to undertake to receive your data.
-    * Try to sketch your project pipeline
+*We will most likely discuss the contribution of your study, your data, and your project pipeline.*
+
+<br>
+
+1. Getting to know each other (e.g., talk about ambitions and strengths/weaknesses; role of first advisor/second advisor)
+2. Setting [expectations](../expectation)
+3. Discuss project ideas and contribution
+  * Study these sections well and be prepared to pitch your research!!!
+  * Have a list of potential contributions of your research
+  * Have an initial conceptual model
+4. Data availability and research fit
+  * Clearly inform your advisor about data availability, or the steps that you still need to undertake to receive your data.
+  * Discuss sketch of your project pipeline
+5. Skill development plan
+  * Which skills (e.g., data analysis, data preparation) are needed for the successful completion of your thesis?
+  * Which courses should you still follow (e.g., [data preparation in R](https://dprep.hannesdatta.com), [online data collections](https://odcm.hannesdatta.com))
+6. Time planning and next meetings
+  - Revised introduction
+  - Prepare literature review
+  - Organize your project (directory structure, workflows)
+  - Complete gathering data, start inspecting it

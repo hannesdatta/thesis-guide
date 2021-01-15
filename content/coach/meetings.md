@@ -30,3 +30,5 @@ We will use Microsoft Teams for online meetings and communication. You will rece
 Students and staff of Tilburg University have access to the campus license of Zoom. When setting up meetings (please send us calendar invites), please include the link to the Zoom call.
 
 You can create meeting links by visiting https://tilburguniversity.zoom.us/, and logging in with your Tilburg University account.
+
+You are allowed to use Zoom to record our meetings for personal use (e.g., to facilitate taking notes).
