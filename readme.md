@@ -4,7 +4,7 @@ Open-source guide book to accompany the Master thesis supervision process of Han
 
 ## Get to know our site!
 
-If you are actually __looking for the thesis companion__, rather than seeking to *contribute to it our view its source code*, open the [thesis companion here in your browser](https://thesis.hannesdatta.com).
+If you are actually __looking for the thesis companion__, rather than seeking to *contribute to it or view its source code*, open the [thesis companion here in your browser](https://thesis.hannesdatta.com).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9c942038-4d66-4665-b30a-f2b6c6589960/deploy-status)](https://app.netlify.com/sites/thesis-companion/deploys)
 
@@ -12,7 +12,7 @@ If you are actually __looking for the thesis companion__, rather than seeking to
 
 Contributions in any form (e.g., correcting typos, adding chapters, etc.) are welcome!
 
-Please fork this repository, create branches per featuer, and issue pull requests for each change you're making!
+Please fork this repository, create branches per feature, and issue pull requests for each change you're making!
 
 For details on how to contribute, please view the [contribution guidelines for Tilburg Science Hub](https://github.com/hannesdatta/tilburg-science-hub), so please check the documentation there.
 
