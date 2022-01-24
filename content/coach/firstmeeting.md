@@ -21,7 +21,7 @@ Please prepare the following for your first meeting with your advisor.
 
 * Prepare a rough sketch about your [project pipeline](/pipeline)
     * ideally, walk through the [tour at Tilburg Science Hub](https://tilburgsciencehub.com/tour)
-    * review the material at [Data Preparation & Workflow Management](https://dprep.hannesdatta.com)
+    * start to [professionally manage your research project](https://dprep.hannesdatta.com/docs/tutorials/version-control/)
     * set up your [project's pipeline](https://tilburgsciencehub.com/start/new-project)
 
 * Know this website, and the various requirements that are already relevant at this stage of your thesis process
