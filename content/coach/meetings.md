@@ -2,36 +2,31 @@
 title: "Structure and meetings"
 draft: false
 weight: 20
-date: 2020-09-13T09:00:00+02:00
+date: 2022-01-24T09:00:00+02:00
 ---
 
-### Supervision in teams
+### Coaching in "thesis circles"
 
-You are supervised in __teams of about 2-4 students__ who work on similar topics - either from a substantive perspective (the "topic"), or from a methodological perspective. You will be notified about your team mates at the start of your supervision process.
+You are coached as a member of a so-called "thesis circle", consisting of 6-8 students who start their thesis around the same time.
 
-### Online meetings
+Some students in this thesis circle will work on similar topics - either from a substantive perspective (the "topic"), or from a methodological perspective. Others will work on more dissimilar topics, but will face comparable challenges throughout the supervision process from which you can learn.
 
-Your supervision takes place in __online meetings__, potentially with other students that work on similar topics.
+You will be notified about students in your thesis circle at the beginning of the coaching process.
 
-You will typically have 5-7 meetings with your advisors. Use our [meeting planner](/downloads/meeting-planner.xlsx) to find out how to *approximately* space out your appointments over time.
+#### Weekly meetings
 
-#### Use of Zoom
-<!--Microsoft Teams
-We will use Microsoft Teams for online meetings and communication. You will receive an invitation to join the Team after the official start of your supervision period (as of January 2021).
--->
-We use Zoom to meet up.
-Students and staff of Tilburg University have access to the campus license of Zoom. When setting up meetings *(please send us calendar invites)*, please include the link to the Zoom call.
+Coaching takes place in __pre-scheduled, weekly online meetings__. Please reserve time in your agendas.
 
-* You can create meeting links by visiting https://tilburguniversity.zoom.us/, and logging in with your Tilburg University account.
+The kickoff meeting (meeting #1) is mandatory for all students that are part of the thesis circle. Students then have the option to "book" coaching time for subsequent weeks, using a public Google Doc for scheduling.
 
-* You are allowed to use Zoom to record our meetings for personal use (e.g., to facilitate taking notes).
+- __[You can find the schedule here](https://docs.google.com/spreadsheets/d/1QZkbloVG2gHWMqdgTXLlA7tuguApkc98zynSkPIv224/edit?usp=sharing)__ (viewable only when logged in to Google with your `@tilburguniversity.edu` email address).
+- Overall, students typically have 5-7 meetings with their coach.
+- Use our [meeting planner](/downloads/meeting-planner.xlsx) to find out how to *approximately* space out appointments over time. Try to plan meetings in smaller groups of 2-4 likeminded students working on similar topics/methods/problems.
 
-* Before meeting online, test your audio and turn on your webcam.
-* Please join the meeting a couple of minutes prior to the start of the meeting, so we can start on time.
-* Please be prepared to share your screen. If you require feedback on code or data, please have your computer ready for us to work on. In practice, this means having [TeamViewer installed](http://tilburgsciencehub.com/setup/teamviewer).
 
-### Conducting your research independently
-In-between online meetings, you work __independently on your research__, and stay in close touch with other students (e.g., to give feedback on writing or code). Please bundle questions for your next online meeting. If you're stuck - get in touch with your advisor.
+#### Conduct your research independently
+
+In-between online meetings, you work __independently on your research__, and stay in close touch with other students (e.g., to give feedback on writing or code). Please bundle questions for your next online meeting. If you're stuck - get in touch with your coach.
 
 * If you do not receive a reply in reasonable time, please remind me about your message.
 * Don't contact me for every tiny question you have, but first try to find a solution yourself or in discussions with other students in your thesis team.

@@ -1,17 +1,17 @@
 ---
-title: "First advisor meeting"
+title: "First meeting"
 draft: false
 weight: 50
-date: 2021-01-15T09:00:00+02:00
+date: 2022-01-24T09:00:00+02:00
 ---
 
-# Preparation
+### Preparation
 
 Please prepare the following for your first meeting with your advisor.
 
 * (Re)share your thesis proposal
     * Please email/post your research proposal to your coach, even if you haven't updated it after handing it in (PDF format). Do so at least three days before the meeting.
-    * If you're supervised in a team, send the research proposal to your thesis partner, too.
+    * If you're supervised in a team, send the research proposal to members of your thesis circle.
 
 * Make an overview of the data that you have or plan to use
     * e.g., inform yourself about the dataset, make some descriptive statistics if possible; see also the section on describing your data on this site
@@ -20,7 +20,9 @@ Please prepare the following for your first meeting with your advisor.
     * Which software to accomplish which (pipeline) task? (e.g., R for data preparation, Python for k-means clustering, R for fixed-effects model, etc.)
 
 * Prepare a rough sketch about your [project pipeline](/pipeline)
-    * ideally, study our workflows on [tilburgsciencehub.com](http://tilburgsciencehub.com/workflow), and follow our [tutorial on reproducible workflows](http://tilburgsciencehub.com/tutorial) before you start with your thesis
+    * ideally, walk through the [tour at Tilburg Science Hub](https://tilburgsciencehub.com/tour)
+    * review the material at [Data Preparation & Workflow Management](https://dprep.hannesdatta.com)
+    * set up your [project's pipeline](https://tilburgsciencehub.com/start/new-project)
 
 * Know this website, and the various requirements that are already relevant at this stage of your thesis process
 
@@ -31,7 +33,7 @@ Please prepare the following for your first meeting with your advisor.
     * Which areas excite you, and wish to learn more about?
     * What is it that you really dislike?
 
-## Preliminary meeting agenda
+### Preliminary meeting agenda
 
 *We will most likely discuss the contribution of your study, your data, and your project pipeline.*
 

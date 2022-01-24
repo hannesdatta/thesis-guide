@@ -1,5 +1,5 @@
 ---
-title: "Supervision and Feedback"
+title: "Coaching and Feedback"
 date: 2020-09-13T09:00:00+02:00
 icon: "ti-user"
 draft: false

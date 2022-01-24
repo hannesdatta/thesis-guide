@@ -1,8 +1,8 @@
 ---
-title: "Next advisor meetings"
+title: "Next meetings"
 draft: false
 weight: 60
-date: 2020-05-19T09:00:00+02:00
+date: 2022-01-24T09:00:00+02:00
 ---
 
 * Follow the guidelines from this web site
