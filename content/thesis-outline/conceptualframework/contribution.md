@@ -19,7 +19,6 @@ paper.
    in both ways (e.g., both positive and negative), it’s wiser to not write
    out formal hypotheses but rather expectations.
 * For a paper having expectations, see Datta, Ailawadi , and Van
-  Heerde (2017, <ins>[paper here](https://doi.org/10.1509/jm.15.0340)</ins>). Alternatively, a paper can very well do
-  without any hypotheses or expectations, see <ins>[spotify](tiu.nu/)</ins>
+  Heerde (2017, <ins>[paper here](https://journals.sagepub.com/doi/10.1509/jm.15.0340)</ins>). Alternatively, a paper can very well do without any hypotheses or expectations, see [here](https://tiu.nu/spotify).
 
 **Important: choose a format that fits your research**

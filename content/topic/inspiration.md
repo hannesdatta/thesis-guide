@@ -10,7 +10,7 @@ working on at this moment, and seek inspiration.
 
 * in academic journals
     * For example, try to look at the Table of Contents of some of
-    the recent issues of [good journals](literature.md). What topics
+    the recent issues of good journals. What topics
     are "hot"? What kind of titles do other authors use?
     * Browse the reference list of a few articles you have identified to be relevant
     for your work. What authors do they cite? Do you encounter papers not
@@ -29,7 +29,7 @@ working on at this moment, and seek inspiration.
     * Companies frequently host blogs or publish white papers.
     For technology-oriented topics, see McKinsey, or Accenture.
     * It's also worthwhile to check out corporate blogs and news sites.
-* at scientific research institutes (e.g., the [Marketing Science Institute](http://msi.org/)
+* at scientific research institutes (e.g., the [Marketing Science Institute](http://msi.org/))
     * The marketing world knows some excellent institutes that aim to bridge
     the gap between marketing academia and marketing practice. For example,
     MSI publishes lists of important research topics an a four-year basis.

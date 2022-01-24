@@ -16,7 +16,7 @@ Finding a good place to start getting inspired may be hard. That's why I've comp
   - Aguiar, L., & Waldfogel, J. (2018). Platforms, promotion, and product discovery: Evidence from spotify playlists (No. w24713). National Bureau of Economic Research. [Paper](https://www.nber.org/papers/w24713.pdf)  
   - Datta, H., Knox, G., & Bronnenberg, B. J. (2018). Changing their tune: How consumers’ adoption of online streaming affects music consumption and discovery. *Marketing Science*, 37(1), 5-21. [Paper](https://pubsonline.informs.org/doi/pdf/10.1287/mksc.2017.1051)
   - Holtz, D., Carterette, B., Chandar, P., Nazari, Z., Cramer, H., & Aral, S. (2020). The Engagement-Diversity Connection: Evidence from a Field Experiment on Spotify. Available at SSRN. [Paper](https://arxiv.org/pdf/2003.08203)
-  - Knox, G., & Datta, H. (2020). Streaming Services and the Homogenization of Music Consumption. [Paper](https://research.tilburguniversity.edu/files/32472563/spotify_homogenization.pdf)
+  - Knox, G., & Datta, H. (2020). Streaming Services and the Homogenization of Music Consumption. [Paper](https://research.tilburguniversity.edu/en/publications/streaming-services-and-the-homogenization-of-music-consumption)
   - Sim, J., Cho, D., Hwang, Y., & Telang, R. (2020). Virus Shook the Streaming Star: Estimating the COVID-19 Impact on Music Consumption. Available at SSRN 3649085. [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3649085)
   - Spotify's own [research page](https://research.atspotify.com)
 - Data sets I've collected/I am collecting

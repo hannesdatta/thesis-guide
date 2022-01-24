@@ -24,8 +24,7 @@ In writing your thesis, please adhere to the following chapter structure. We pro
     * Variable operationalization
     * Descriptive statistics of the final data set
 
-
-5. [Model](model)
+5. [Model](method)
     * Model expressed in formulas + explanation
     * Explanation of variables that enter your model, and why
 

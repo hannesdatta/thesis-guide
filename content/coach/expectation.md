@@ -29,4 +29,4 @@ date: 2020-09-13T09:00:00+02:00
 
 **Keep me up-to-date**
   * Provide a small recap of your project regularly
-  * If you experience any kind of problem - whether related to the content of your thesis, or related to your [personal wellbeing](healthy) - you can talk to me so I can help you find a solution or refer you to experts that can.
+  * If you experience any kind of problem - whether related to the content of your thesis, or related to your [personal wellbeing](../../healthy) - you can talk to me so I can help you find a solution or refer you to experts that can.
