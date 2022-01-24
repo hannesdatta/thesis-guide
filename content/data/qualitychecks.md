@@ -23,7 +23,7 @@ The best way to go about is to *read in the various data files in your statistic
 #### Verify documentation
 
 - Is the data accompanied by a readme or documentation? It's advisable to read it well.
-- Is there no documentation available? Create your own one, by starting with [this template](http://tilburgsciencehub.com/workflow/documenting-data/).
+- Is there no documentation available? Create your own one, by starting with [this template](https://tilburgsciencehub.com/document/new-data).
 - Is the filename informative of the content of the file? Does it contain extra information (e.g., a timestamp) which is not contained in the data itself?
 
 #### Validity

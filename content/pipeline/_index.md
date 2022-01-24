@@ -10,13 +10,13 @@ weight: 50
 
 A thesis project in marketing analytics can quickly become tough to manage.
 To keep your project structured and efficient to execute, we urge you to adhere to the project management guidelines
-available at [Tilburg Science Hub](http://tilburgsciencehub.com/workflow).
+available at [Tilburg Science Hub](https://tilburgsciencehub.com/learn/project-setup).
 
 At the minimum, we expect a thesis workflow to consist of
-- a [well-defined pipeline](http://tilburgsciencehub.com/workflow/pipeline),
-- a proper [directory structure](http://tilburgsciencehub.com/workflow/directories),
-- a [fully automated workflow](http://tilburgsciencehub.com/workflow/automation), and
-- a proper documentation, including [a readme for any raw data that was collected](http://tilburgsciencehub.com/workflow/documenting-data), and an [overarching documentation for the project](http://tilburgsciencehub.com/workflow/documenting-code).
+- a well-defined pipeline,
+- a proper directory structure,
+- a fully automated workflow, and
+- a proper documentation, including [a readme for any raw data that was collected](https://tilburgsciencehub.com/document/new-data), and an [overarching documentation for the project](https://tilburgsciencehub.com/write/readme).
 
 When your pipeline is properly configured, you can use it mainly for prototyping during your research:
 
@@ -27,6 +27,6 @@ When your pipeline is properly configured, you can use it mainly for prototyping
 
 After handing in your thesis, others can use your pipeline to replicate your findings, build extensions for it, or merely use your data for related research projects.
 
-Our [checklist](http://tilburgsciencehub.com/workflow/checklist/) will help you to keep track of the various requirements when building your pipeline.
+Our [checklist](https://tilburgsciencehub.com/audit/workflow-checklist) will help you to keep track of the various requirements when building your pipeline.
 
-Optionally, you can make use of the [versioning and project management features of GitHub](http://tilburgsciencehub.com/workflow/versioning/). Definitely recommended if you plan a career in marketing analytics or data science.
+Optionally, you can make use of the [versioning and project management features of GitHub](https://tilburgsciencehub.com/audit/workflow-checklist). Definitely recommended if you plan a career in marketing analytics or data science.
