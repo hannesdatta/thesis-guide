@@ -1,6 +1,6 @@
 ---
 title: "Prepare your submission"
-date: 2020-05-15T09:00:00+02:00
+date: 2022-06-28T09:00:00+02:00
 icon: "ti-export"
 draft: false
 description: "How to submit your thesis"
@@ -14,3 +14,4 @@ __You've reached a major milestone! It's time to hand in your thesis!__
 - Next, please also submit to your advisor your workflow which reproduces the data preparation and analyses reported in the paper. For submission, use one of the following two options:
   - send us a link to your GitHub repository (email us, please), or
   - send us a zip file with your workflow and all relevant data (use https://filesender.surf.nl to send the files).
+  - please include a link to your GitHub repository on the title page of your thesis

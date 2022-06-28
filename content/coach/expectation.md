@@ -19,10 +19,10 @@ date: 2020-09-13T09:00:00+02:00
 
 **Prepare thoroughly for meetings**
   * Have an agenda of things you would like to discuss.
-  * eep an eye on the time so that we do not run over time.
+  * Keep an eye on the time so that we do not run over time.
   * Be proactive - make suggestions, be creative, challenge the status quo!
-  * Not only come up with problems during your meetings, but also try to already have a set of potential solutions
-  * Send stuff (as __PDF documents__, not as Word documents) early enough to allow me to prepare. Generally, this is 24 hours before our meeting.
+  * Not only come up with problems during your meetings, but also try to have a set of potential solutions
+  * Send stuff (as __PDF documents__, not as Word documents) early enough to allow me to prepare. Check our scheduling sheet for details and submission links.
 
 **Work in a team**
   * If you are supervised in a team, please send your material to each other early enough, so that you can (a) study each other’s work, and provide (b) a round of feedback before submitting material to your advisor

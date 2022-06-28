@@ -1,6 +1,6 @@
 ---
 title: "Mental health & beyond"
-date: 2020-07-10T09:00:00+02:00
+date: 2022-06-28T09:00:00+02:00
 icon: "ti-pulse"
 draft: false
 description: "Manage your mental health and deal with unexpected problems during your thesis"
@@ -15,5 +15,5 @@ On top of that, unexpected problems may arise - either directly relating to your
 In general, it's good to signal any of these problems early on to your advisor.
 
 - Together with you, your advisor can come up with alternative routes to narrow down the scope of your thesis to meet your changed situation.
-- If you experience study delay, you can talk to the program coordinator for an official extension of your deadline.
+- If you experience study delay, the program coordinator can provide you with an official extension of your deadline. 
 - Feel you can't manage the situation and look for professional help? [Please talk to our student psychologists](support).

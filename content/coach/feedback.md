@@ -19,6 +19,6 @@ My feedback typically falls into one of the three categories below. Please evalu
 
 ### Support from others
 
-- I'm not the only person to ask for feedback. In fact, friends or colleagues may go the extra mile to discuss research questions, find spelling mistakes, or help you fix some errors in your `R` code.
+- I'm not the only person to ask for feedback. In fact, friends or colleagues may go the extra mile to discuss research questions, find spelling mistakes, or help you fix some errors in your code.
 
 - If you do seek support from others, *you need to tell me about it* so that I can accurately gauge your own performance, which is crucial for a proper planning.

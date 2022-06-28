@@ -18,12 +18,17 @@ unsafe= true
 [[menu.main]]
 name = "FAQ"
 url = "faq"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Contact & About"
 url = "contact"
-weight = 3
+weight = 4
+
+[[menu.main]]
+name = "Meetings"
+url = "coach/meetings"
+weight = 2
 
 # Dropdown menu
 [[menu.main]]
@@ -110,10 +115,6 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 #custom_css = "/my_css.css"
 
 ############################## social links ##############################
-#[[params.social]]
-#icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-#link = "#"
-
 [[params.social]]
 icon = "ti-user" # themify icon pack : https://themify.me/themify-icons
 link = "https://hannesdatta.com"
@@ -126,13 +127,18 @@ link = "https://github.com/hannesdatta/thesis-guide"
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/hannes-datta/"
 
+[[params.social]]
+icon = "ti-twitter" # themify icon pack : https://themify.me/themify-icons
+link = "https://twitter.com/hannesdatta"
+
+
 ################################ English Language ######################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 weight = 1
 home = "Home"
-copyright = "© [Hannes Datta](https://hannesdatta.com) 2020."
+copyright = "© [Hannes Datta](https://hannesdatta.com) 2022."
 
 # banner
 [Languages.en.params.banner]

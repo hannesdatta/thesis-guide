@@ -34,5 +34,5 @@ and model estimation. We have collected a few tips on how to [learn R here](http
   - does your data sit somewhere in a database? Then learning SQL
 (for structured databases) or NoSQL (for unstructured databases) is recommended.
 - Data collection
-  - Should you plan on collecting some data via web scraping and APIs,
+  - Should you plan on [collecting some data via web scraping and APIs](https://odcm.hannesdatta.com),
   we recommend you to refresh your Python skills.
