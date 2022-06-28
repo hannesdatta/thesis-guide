@@ -143,7 +143,7 @@ copyright = "© [Hannes Datta](https://hannesdatta.com) 2022."
 # banner
 [Languages.en.params.banner]
 title = "Marketing Analytics<br>Thesis Companion"
-subtitle = "A guide for your thesis trajectory<br>with Hannes Datta at Tilburg University"
+subtitle = "A guide for your thesis trajectory<br>with [Hannes Datta](https://hannesdatta.com) at Tilburg University"
 bg_image = "images/banner_laptop.jpg"
 placeholder = "Have a question? Just ask here or enter some key words."
 
