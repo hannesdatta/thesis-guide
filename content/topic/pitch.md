@@ -1,8 +1,7 @@
 ---
 title: "Make your pitch"
 weight: 40
-date: 2022-07-15T09:00:00+02:00
-
+date: 2022-07-14T09:00:00+02:00
 ---
 
 After seeking inspiration and talking to others about your idea, it's time to prepare a proper pitch. 
