@@ -44,26 +44,32 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Guide"
+  name = "Coaching and feedback"
+  url = "coach"
+  weight = 1
+  
+  [[menu.main]]
+  parent = "Guide"
   name = "Skills and software"
   url = "skills"
   weight = 2
 
   [[menu.main]]
   parent = "Guide"
-  name = "Meet your coach"
-  url = "coach"
-  weight = 3
-
-  [[menu.main]]
-  parent = "Guide"
-  name = "Topic and data"
+  name = "Topic and research question"
   url = "topic"
-  weight = 4
+  weight = 3
 
   [[menu.main]]
   parent = "Guide"
   name = "Finding literature"
   url = "literature"
+  weight = 4
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Managing your raw data"
+  url = "data"
   weight = 5
 
   [[menu.main]]
@@ -86,9 +92,21 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Guide"
-  name = "Preparing your submission"
+  name = "Prepare your submission"
   url = "submission"
   weight = 9
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Mental health & beyond"
+  url = "healthy"
+  weight = 10
+
+  [[menu.main]]
+  parent = "Guide"
+  name = "Example theses"
+  url = "thesis-examples"
+  weight = 11
 
 ############################# Default Parameters ##########################
 [params]
@@ -145,7 +163,7 @@ copyright = "© [Hannes Datta](https://hannesdatta.com) 2022."
 title = "Marketing Analytics<br>Thesis Companion"
 subtitle = "A guide for your thesis trajectory<br>with [Hannes Datta](https://hannesdatta.com) at Tilburg University"
 bg_image = "images/banner_laptop.jpg"
-placeholder = "Have a question? Just ask here or enter some key words."
+placeholder = "Have a question? Just enter some key words here!"
 
 # call to action
 [Languages.en.params.cta]
