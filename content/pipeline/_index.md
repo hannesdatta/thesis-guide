@@ -3,7 +3,7 @@ title: "Building your project pipeline"
 date: 2020-05-19T09:00:00+02:00
 icon: "ti-settings"
 draft: false
-description: "Conduct your research efficiently by documenting and automating your workflows"
+description: "Documenting and automating your workflows ensures replicability and efficiency."
 type : "docs"
 weight: 50
 ---

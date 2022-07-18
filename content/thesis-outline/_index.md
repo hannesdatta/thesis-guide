@@ -3,7 +3,7 @@ title: "Thesis outline"
 date: 2020-05-11T09:00:00+02:00
 icon: "ti-notepad" #ti-zoom-in
 draft: false
-description: "Step-by-step guide with what is important to know for each phase of conducting your research"
+description: "Step-by-step guide with what is important to know for each phase of conducting your research."
 type : "docs"
 weight: 60
 ---

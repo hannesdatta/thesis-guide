@@ -1,17 +1,19 @@
 ---
 title: "Prepare your final data set"
-date: 2020-05-11T09:00:00+02:00
+date: 2022-07-18T09:00:00+02:00
 weight: 10
 ---
 
-* Typically, it really does not make sense to analyze the **raw data** that you have collected.
+* Typically, it does not make sense to **analyze the raw data**.
   * raw data may not be at the unit of analysis of other relevant variables (e.g., you collected data at the SKU-level,
   while your dependent variable is at the brand level),
   * raw data may not yet contain the independent variables you are actually interested in, and you need to prepare for merging,
   * raw data may be too messy (e.g., contains outliers), and
   * raw data may be too fine grained (e.g., recorded per minute, while a weekly level of analysis may be warranted).
 
-**How to arrive at a final (cleaned) data set?**
+Therefore, you need to **transform your raw data to the final (cleaned) data set**. 
+
+#### How to transform your raw data to the final (cleaned) data set?
 
 * Data cleaning
 

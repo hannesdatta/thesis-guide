@@ -3,7 +3,7 @@ title: "Example theses"
 date: 2020-07-15T09:00:00+02:00
 icon: "ti-bookmark-alt"
 draft: false
-description: "Get inspired by the writing and workflows of other students"
+description: "Get inspired by the writing and workflows of other students."
 weight: 100
 type : "docs"
 ---

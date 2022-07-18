@@ -9,12 +9,12 @@ date: 2020-05-11T09:00:00+02:00
   * E.g., Log likelihood test against a null model, hit rate, hit probabilities (for Logit models)
   * Validation on a holdout sample
 
-* Provide diagnostic plots, where appropriate
+* If you have estimated "competing" models, show the fit statistics for all models, and then motivate your final model choice.
+
+* Provide diagnostic plots, where appropriate.
 
   ![Results1](/assets/results1.png)
 
   Source:
-  Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. *Journal of Marketing Research,* 52(2), 217 234.
+  Datta, H., Foubert, B., & Van Heerde, H. J. (2015). [The challenge of retaining customers acquired with free trials.](https://doi.org/10.1509%2Fjmr.12.0160) *Journal of Marketing Research,* 52(2), 217 234.
 
-* If you have estimated "competing" models, show the fit statistics for all models, and
-  then motivate your final model choice.

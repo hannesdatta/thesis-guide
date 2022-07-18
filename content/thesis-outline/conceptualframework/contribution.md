@@ -21,4 +21,4 @@ paper.
 * For a paper having expectations, see Datta, Ailawadi , and Van
   Heerde (2017, <ins>[paper here](https://journals.sagepub.com/doi/10.1509/jm.15.0340)</ins>). Alternatively, a paper can very well do without any hypotheses or expectations, see [here](https://tiu.nu/spotify).
 
-**Important: choose a format that fits your research**
+**Important: choose a format that fits your research!**

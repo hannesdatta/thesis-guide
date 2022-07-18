@@ -3,7 +3,7 @@ title: "Mental health & beyond"
 date: 2022-06-28T09:00:00+02:00
 icon: "ti-pulse"
 draft: false
-description: "Manage your mental health and deal with unexpected problems during your thesis"
+description: "Manage your mental health and deal with unexpected problems during your thesis."
 type : "docs"
 weight: 90
 ---

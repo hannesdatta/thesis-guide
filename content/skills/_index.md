@@ -3,7 +3,7 @@ title: "Skills and software bootcamp"
 date: 2020-08-25T09:00:00+02:00
 icon: "ti-hummer"
 draft: false
-description: "Invest in your tech and stats skills - even before you start working on your thesis"
+description: "Invest in your skills, even before you start working on your thesis."
 weight: 15
 type : "docs"
 ---
