@@ -19,8 +19,8 @@ Coaching takes place in __pre-scheduled, weekly online meetings__. Please reserv
 
 The kickoff meeting (meeting #1) is mandatory for all students that are part of the thesis circle. Students then have the option to "book" coaching time for subsequent weeks, using a public Google Doc for scheduling.
 
-- __[You can find the schedule here](https://docs.google.com/spreadsheets/d/1QZkbloVG2gHWMqdgTXLlA7tuguApkc98zynSkPIv224/edit?usp=sharing)__ (viewable only when logged in to Google with your `@tilburguniversity.edu` email address).
-- Overall, students typically have 5-7 meetings with their coach.
+- __[You can find the schedule here](https://docs.google.com/spreadsheets/d/1ckLUlQgL_Q5l_aPHjVHsEutSyDY9l3dHTa_CHHX9RW0/edit?usp=sharing)__ (viewable only when being enrolled as a thesis student with Hannes and logged in to Google with your `@tilburguniversity.edu` email address - no access? [Send an email](mailto:h.datta@tilburguniversity.edu), please!).
+- Typically, students have 5-7 meetings with their coach.
 - Use our [meeting planner](/downloads/meeting-planner.xlsx) to find out how to *approximately* space out appointments over time. Try to plan meetings in smaller groups of 2-4 likeminded students working on similar topics/methods/problems.
 
 
