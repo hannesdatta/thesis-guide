@@ -11,11 +11,15 @@ Below, I am collecting a few links for commonly used methods in thesis projects 
 
 <br>
 
-#### Overview books/websites
+#### Method-focused ebooks
 
-- https://bookdown.org/ccolonescu/RPoE4/
+- [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
+- [Causal Inference in Education](https://bookdown.org/aschmi11/causal_inf/) 
+- [A Guide on Data Analysis](https://bookdown.org/mike/data_analysis/])
 
 #### Specific methods
+
+Next to the general references above, these are some useful tutorials for specific methods.
 
 *Regression Analysis*
 
@@ -25,6 +29,7 @@ Below, I am collecting a few links for commonly used methods in thesis projects 
 *Difference-in-difference regressions*
 
 - http://www.princeton.edu/~otorres/DID101R.pdf
+- https://rpubs.com/phle/r_tutorial_difference_in_differences
 
 *Propensity Score Matching*
 
