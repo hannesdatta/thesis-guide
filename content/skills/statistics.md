@@ -21,16 +21,21 @@ Below, I am collecting a few links for commonly used methods in thesis projects 
 
 Next to the general references above, these are some useful tutorials for specific methods.
 
-*Regression Analysis*
+##### Regression analysis
 
 - https://www.statmethods.net/stats/regression.html
 - http://r-statistics.co/Linear-Regression.html
 
-*Difference-in-difference regressions*
+##### Quasi-experimental design
 
+- Goldfarb, A., Tucker, C., & Wang, Y. (2022). Conducting Research in Marketing with Quasi-Experiments. *Journal of Marketing*. https://doi.org/10.1177./00222429221082977
+- Li, Kathleen T., & Christophe Van den Bulte (2022). Augmented Difference-in-Differences. *Marketing Science*. https://doi.org/10.1287/mksc.2022.1406.
+
+
+*Tutorials for difference-in-difference regressions*
 - http://www.princeton.edu/~otorres/DID101R.pdf
 - https://rpubs.com/phle/r_tutorial_difference_in_differences
 
-*Propensity Score Matching*
+*Tutorials for propensity score matching*
 
 - https://sejdemyr.github.io/r-tutorials/statistics/tutorial8.html
