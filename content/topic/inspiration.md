@@ -22,7 +22,7 @@ working on at this moment, and seek inspiration.
     * Companies frequently host **blogs or publish white papers**. For technology-oriented topics, see McKinsey, or Accenture.
     * It's also worthwhile to check out **corporate blogs and news sites**.
 * at **scientific research institutes** (e.g., the [Marketing Science Institute](http://msi.org/))
-    * The marketing world knows some excellent institutes that aim to bridge the gap between marketing academia and marketing practice. For example, the Marketing Science Institute publishes lists of important research topics regularly. Many academics look at these lists and let them shape their own research agendas. Why don't you do the same?
+    * The marketing world knows some excellent institutes that aim to bridge the gap between marketing academia and marketing practice. For example, the Marketing Science Institute publishes lists of important research topics regularly ([see here for the 2022-2024 research priorities](https://www.msi.org/article/msi-announces-2022-24-research-priorities/)). Many academics look at these lists and let them shape their own research agendas. Why don't you do the same?
 * **policy makers** (e.g., European Commission)
 
 * by **talking to friends, or managers**, or 
