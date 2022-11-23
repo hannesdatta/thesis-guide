@@ -38,4 +38,5 @@ Next to the general references above, these are some useful tutorials for specif
 
 *Tutorials for propensity score matching*
 
+- https://cran.r-project.org/web/packages/MatchIt/vignettes/MatchIt.html
 - https://sejdemyr.github.io/r-tutorials/statistics/tutorial8.html
