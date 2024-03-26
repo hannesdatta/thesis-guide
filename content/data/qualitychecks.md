@@ -2,7 +2,7 @@
 title: "Data quality checks"
 draft: false
 date: 2022-07-18T09:00:00+02:00
-weight: 2
+weight: 30
 ---
 
 #### Importing the data

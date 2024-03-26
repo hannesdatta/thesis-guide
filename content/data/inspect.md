@@ -2,7 +2,7 @@
 title: "Inspect your data"
 draft: false
 date: 2022-07-18T09:00:00+02:00
-weight: 1
+weight: 20
 ---
 
 Upon data delivery (e.g., by your coach, by a company, or when you collected the data using web scraping or APIs), it's important you try opening the data to assess its quality. This gives you a chance to follow up with your data provider or debug your extraction code before it's too late.
